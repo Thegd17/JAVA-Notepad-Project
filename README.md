@@ -26,9 +26,3 @@ This project implements a simple Notepad application using Java Swing.
 * Swing
 * File I/O
 * Stack data structure
-
-## Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repository_url>
